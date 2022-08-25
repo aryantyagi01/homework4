@@ -10,6 +10,7 @@ lib.find_by_title("RUST") => <Book:0x00007fe149972840 @title="The Rust Programmi
 <Book:0x00007f8b17189508 @title="Speaking JavaScript", @authors=["Dr. Axel Rauschmayer"], @edition=1>, 
 <Book:0x00007f8b17189440 @title="The Rust Programming Language", @authors=["Steve Klabnik", "Carol Nichols"], @edition=2>],
 
-        
+
+
 
 

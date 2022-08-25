@@ -16,3 +16,4 @@ def map(arr, &code)
 end
 
 map([12, 23, 4, 5], square)
+
